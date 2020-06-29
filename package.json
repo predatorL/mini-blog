@@ -1,0 +1,29 @@
+{
+  "name": "mini-blog-node",
+  "version": "0.0.1",
+  "description": "blog ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "supervisor node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/predatorL/mini-blog-node.git"
+  },
+  "keywords": [
+    "blog",
+    "node",
+    "express"
+  ],
+  "author": "lhy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/predatorL/mini-blog-node/issues"
+  },
+  "homepage": "https://github.com/predatorL/mini-blog-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
