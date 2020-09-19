@@ -1,4 +1,6 @@
 # mini-blog
+* server
+> port: 4000
 
 ## server-node
 > node版
